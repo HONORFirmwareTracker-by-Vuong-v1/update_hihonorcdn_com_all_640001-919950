@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1484234752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>Mf58TpxeLNpYU1gNS1q2Rt4wyLzLwyCnV9VgFIvbzAE=</fileHash>
+<fileSize>679111097</fileSize>
+<metadataHash>jA+/G4OhPwHB3+wvtkhl9WQ0mBrY4ELV7XHL9jQxVLA=</metadataHash>
+<metadataSize>39362</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LGN-L03_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LGN-L03_telcel_mx.zip</spath>
+<dpath>update_full_cust_LGN-L03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>C6B6B7F610DD17E839D1E106D862DE6885C8434EE78E4C75F90E9EEEF0B705DA</sha256>
+<size>679118288</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>718</payloadOffset>
+<fileHash>rbUUTlxR4Iak7AcuVj7UzYzIEBxQybj6kYayRKXJnmk=</fileHash>
+<fileSize>302433</fileSize>
+<metadataHash>hV3L1fzoNAZiHbIob05gQoZFEWCE3Wp/h5HtZcBR0fI=</metadataHash>
+<metadataSize>1079</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_GIA-AN80_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_GIA-AN80_all_cn.zip</spath>
+<dpath>update_full_cust_GIA-AN80_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>495240E164C662987F7CB23AB32F205894862A9F46D0E57DDC21821F7176D5BE</sha256>
+<size>309547</size>
+</file>
+</files>
+</root>

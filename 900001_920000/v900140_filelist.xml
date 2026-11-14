@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>701</payloadOffset>
+<fileHash>FlDnJeK6QBOddfKTlIwin1YK43EySV4a8J7EFrouU9M=</fileHash>
+<fileSize>6958</fileSize>
+<metadataHash>HQm8fHirfOMb9dadNI1DTzMrJm6MkBXJ7nAtY/1nx9c=</metadataHash>
+<metadataSize>1061</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_FNE-N29_def_eea.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_FNE-N29_def_eea.zip</spath>
+<dpath>update_full_cust_FNE-N29_def_eea.zip</dpath>
+<operation>c</operation>
+<sha256>92FD027DAB025F92CD1E81C47A63FE69CF7C5EC4DFD007F13A688262E70503AA</sha256>
+<size>14050</size>
+</file>
+</files>
+</root>

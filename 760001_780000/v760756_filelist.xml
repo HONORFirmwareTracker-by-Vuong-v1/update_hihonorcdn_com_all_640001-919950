@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>qh58C4tqSajXCO5s7AO2g3bYcyMwzFHfzmRrP7Jtt4M=</fileHash>
+<fileSize>1118189062</fileSize>
+<metadataHash>CDs++fRNbDoxaO+AQEpxbWVoHglqcCMmT0svv/G8ARg=</metadataHash>
+<metadataSize>57669</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BRP-N21_def_meafnaf_R6.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BRP-N21_def_meafnaf_R6.zip</spath>
+<dpath>update_full_preload_BRP-N21_def_meafnaf_R6.zip</dpath>
+<operation>c</operation>
+<sha256>BDAB8AA2F2B85EBBA0D751D3462F26CB0984D69679763CA43ADAF65C72BB5037</sha256>
+<size>1118196284</size>
+</file>
+</files>
+</root>

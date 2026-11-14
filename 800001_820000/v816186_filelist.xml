@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>videoframeinterpolate</pluginName>
+	<versionCode>90602020</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>7aa79589ce4441d7539f865d63409ac2135c7d3c5dd44c6b261e88fa2fa7f0eb</sha256>
+			<size>13203318</size>
+		</file>
+	</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2014781440</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>Ezeh9kL8Bb9myO9nW7DTXs4JvvPg8xYqRRVS72LGzBo=</fileHash>
+<fileSize>918784680</fileSize>
+<metadataHash>MG7ok0FnIAQTKI63tQzDb2WAmj9gFBOOhmSs4L6EUiI=</metadataHash>
+<metadataSize>53510</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LNA-L03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LNA-L03_claro_la.zip</spath>
+<dpath>update_full_cust_LNA-L03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>0A70F36B5D9B080026E5AD77167105C8BA63CB1FE4F99BE4A63939E522A250D0</sha256>
+<size>918791878</size>
+</file>
+</files>
+</root>

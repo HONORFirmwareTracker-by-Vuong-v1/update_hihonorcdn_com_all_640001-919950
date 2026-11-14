@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.magictranslate</packageName>
+	<pluginName>opencvSoPlugin</pluginName>
+	<versionCode>901012310</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>6c2eafd5c6fb3b6e68d9c0bf840e78f0d73f3489367d4a2e2c36560deff680e5</sha256>
+			<size>9347614</size>
+		</file>
+	</files>
+</root>

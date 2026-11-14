@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>701</payloadOffset>
+<fileHash>QgWIDOKiUlp2SkzXx3FrQNf8KiI3P53gMucw3uGlKkc=</fileHash>
+<fileSize>6615</fileSize>
+<metadataHash>LqQ/H+/Rd7cdHmFjSyjxDwygGo1Kia56ynRyDeKjmlk=</metadataHash>
+<metadataSize>1061</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_NTH-N29_def_eea.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_NTH-N29_def_eea.zip</spath>
+<dpath>update_full_cust_NTH-N29_def_eea.zip</dpath>
+<operation>c</operation>
+<sha256>5457D26255ECA617725CC5FE476AF52ED6F0696C68D47BC65D91395DC3A5E4DE</sha256>
+<size>13704</size>
+</file>
+</files>
+</root>

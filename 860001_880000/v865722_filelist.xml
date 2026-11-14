@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>4322238464</cowsize>
+<payloadOffset>752</payloadOffset>
+<fileHash>Fd6Tacs4TriyWk86upKZhIgIv8RfEkj03jRZFbpMIeQ=</fileHash>
+<fileSize>1167923721</fileSize>
+<metadataHash>PimFbTBaTN/PX292Qzunc7SfGQbfdCYeaPHw032E8O8=</metadataHash>
+<metadataSize>114095</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_RMO-AN00_demo_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_RMO-AN00_demo_cn.zip</spath>
+<dpath>update_full_cust_RMO-AN00_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>63029019BAF37C8866F4D7B4A46B2EAD23DBF5152F3288CF6509F9997E257FF5</sha256>
+<size>1167930881</size>
+</file>
+</files>
+</root>

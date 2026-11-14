@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2014781440</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>JTp980HN0HBLbG4dUOvTrpzTIT6tZ2J4Mogt78NA40k=</fileHash>
+<fileSize>847417528</fileSize>
+<metadataHash>0bksoxmz3xuajYtp4BhQijuUvJ+ix2fXr4L3/nbh3Qg=</metadataHash>
+<metadataSize>53431</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LBU-L13S_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LBU-L13S_claro_la.zip</spath>
+<dpath>update_full_cust_LBU-L13S_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>1D8A5316310D8F98BF9FD8F11C6F2516BC23060A8DDE392370C86118DDA5CEA9</sha256>
+<size>847424723</size>
+</file>
+</files>
+</root>

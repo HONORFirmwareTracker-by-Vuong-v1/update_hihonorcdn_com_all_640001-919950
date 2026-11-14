@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>775</payloadOffset>
+<fileHash>p+xz8IlrWj2ts0GQz471AnGy6lYvV5XAH5INKkpuhiA=</fileHash>
+<fileSize>110325</fileSize>
+<metadataHash>gQebHlug4GCqs8NhaDMp5ORur47XlhJIUjq8IX/PvLI=</metadataHash>
+<metadataSize>54278</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_VKP-N39_demo_normal_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_VKP-N39_demo_normal_R101.zip</spath>
+<dpath>update_full_preload_VKP-N39_demo_normal_R101.zip</dpath>
+<operation>c</operation>
+<sha256>FF4D314081E627763807284027FC69AE4401EDFC6E3215B923CAD08208C7D155</sha256>
+<size>117509</size>
+</file>
+</files>
+</root>

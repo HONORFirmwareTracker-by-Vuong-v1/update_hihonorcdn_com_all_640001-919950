@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2014781440</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>kZGEuQqITtlqse2XfMnR6tSHMlniTQKk5UOPIrprftY=</fileHash>
+<fileSize>882989197</fileSize>
+<metadataHash>RS0CEL+J4KF1zndQR4jVYAiP58QAY/l3owZL/ZNTq+k=</metadataHash>
+<metadataSize>53473</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BKQ-N19_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BKQ-N19_claro_la.zip</spath>
+<dpath>update_full_cust_BKQ-N19_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>5EAF4C79D5E4EAA723EAB2F28BE6ED3CB84098DFA88C69EC14E9DECF67D4DF45</sha256>
+<size>882996378</size>
+</file>
+</files>
+</root>

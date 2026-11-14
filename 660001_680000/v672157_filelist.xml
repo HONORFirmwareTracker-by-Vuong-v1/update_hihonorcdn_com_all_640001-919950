@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>HZxRaQbQqNfwAuYSnlXjzC2xXvYTfwSyxo3N3F9pspI=</fileHash>
+<fileSize>922980357</fileSize>
+<metadataHash>4fz3A5/dzymbkJVYinacAuDVqXImo/C6pCwday/1zes=</metadataHash>
+<metadataSize>57427</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_DNY-N39_def_spcseas_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_DNY-N39_def_spcseas_R3.zip</spath>
+<dpath>update_full_preload_DNY-N39_def_spcseas_R3.zip</dpath>
+<operation>c</operation>
+<sha256>ADFDE9853F12AEAAEC43A44381653A851C9F0964608C0505EC032699411EB06F</sha256>
+<size>922987568</size>
+</file>
+</files>
+</root>

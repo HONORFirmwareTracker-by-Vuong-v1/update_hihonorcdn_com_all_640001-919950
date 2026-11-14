@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imagesegment</pluginName>
+	<versionCode>90131043</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>dab7a1ba9e2b4aed8608ab377160399ddd1da0cdf7d70fb010d11a7f8c7acd8e</sha256>
+			<size>48558909</size>
+		</file>
+	</files>
+</root>

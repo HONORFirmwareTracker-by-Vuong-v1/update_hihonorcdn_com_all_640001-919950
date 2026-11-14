@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>dm2FUeBvNMKYLgK0kUeFPu90v/7+JY98gkFBVtsh5mQ=</fileHash>
+<fileSize>570264988</fileSize>
+<metadataHash>JhXyVx53mUvcnRmUZWF+zoBq69UJ9R6EWAgWjxD36iY=</metadataHash>
+<metadataSize>31541</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MTN-N23_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MTN-N23_iusacell_mx.zip</spath>
+<dpath>update_full_cust_MTN-N23_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>00D7BD37400DDC7EAE9D62B1D649813F568C4BEE4EEC61D2DD351E2738803F29</sha256>
+<size>570272183</size>
+</file>
+</files>
+</root>

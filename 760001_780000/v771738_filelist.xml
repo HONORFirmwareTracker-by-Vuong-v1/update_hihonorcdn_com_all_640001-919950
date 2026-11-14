@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>kWVKK95HfP4cJLVR5x4zmD7ysNeU1Uy12fpdo541ylU=</fileHash>
+<fileSize>7498</fileSize>
+<metadataHash>fAXF1fQNT0vbstc/bu8mSJkc75Nz48pjJco+7ZSW/HM=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ELN2-W29_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ELN2-W29_def_la.zip</spath>
+<dpath>update_full_cust_ELN2-W29_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>64F8F2CB674E6A37BDE4E67564547A33F8EB4AC6C38D5510102855DC295259A3</sha256>
+<size>14646</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2010570752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>UQgq/vUoH/00srNWr6SHDAnz9Jj1ov6IuSWWYNrunGs=</fileHash>
+<fileSize>936017722</fileSize>
+<metadataHash>UOc6DKuqr8bbN+BFN2V6rYAIrfeRtfEYyAs17QKBvrc=</metadataHash>
+<metadataSize>53427</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BRP-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BRP-N03_claro_la.zip</spath>
+<dpath>update_full_cust_BRP-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>2A57C7A212BB3294A48EFD8DA40DC1ADF36A1D0EB0C8DC8030D3F2B13D8966E0</sha256>
+<size>936024920</size>
+</file>
+</files>
+</root>

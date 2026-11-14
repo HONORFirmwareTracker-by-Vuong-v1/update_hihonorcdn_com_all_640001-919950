@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>V9vgGKOnVKvANqtT4i59eYlY2cmP575zGcs6N5CLJFM=</fileHash>
+<fileSize>197902165</fileSize>
+<metadataHash>wJ83tUFi7JLkVsoBalpgmy/tHNI5sP+47KzQjfh7axo=</metadataHash>
+<metadataSize>16011</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_VKJ-N39_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_VKJ-N39_opr_meafnaf.zip</spath>
+<dpath>update_full_cust_VKJ-N39_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>DEEADFE7DD76BBE5B299EA8D21EFF0A9B39E50E95A6C0E853B3BED015FB8C4B2</sha256>
+<size>197909361</size>
+</file>
+</files>
+</root>

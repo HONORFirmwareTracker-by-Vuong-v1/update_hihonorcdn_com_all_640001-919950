@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.fileservice</packageName>
+	<pluginName>multiformatplugin</pluginName>
+	<versionCode>100001102</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>83aa0fbc9ae797337630d6c9fe96df5131767e95fb56d43ecf9f3e5bcd989c84</sha256>
+			<size>43201059</size>
+		</file>
+	</files>
+</root>

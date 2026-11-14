@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2355847168</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>5uRqVPHFQTn9pdte88x7TdCf07PYpUVPhPKruVej7pM=</fileHash>
+<fileSize>1891586327</fileSize>
+<metadataHash>Pe4omq2orCDvakDBmhwBYxlfXyMp5uFwIOp7qweeDMc=</metadataHash>
+<metadataSize>63468</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BKQ-AN20_demo_cn_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BKQ-AN20_demo_cn_R101.zip</spath>
+<dpath>update_full_preload_BKQ-AN20_demo_cn_R101.zip</dpath>
+<operation>c</operation>
+<sha256>F2FD965966F7F356D1E217D9545171F0DABE1BFCD9217469AD317A80B1F82878</sha256>
+<size>1891593546</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>socialanalysis</pluginName>
+	<versionCode>100600011</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>43414ce96da38efe9af51e8c2d47d79523c36e9d907d03d4391446fc8ce1caeb</sha256>
+			<size>482257</size>
+		</file>
+	</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>SZ7ZT1m+ZWXftvl7fywmHaF5CgFr6TFoP1UwedfcDVA=</fileHash>
+<fileSize>924035779</fileSize>
+<metadataHash>LakEHdMvzoWndN4jHA/Hw71HkwvWA64T8DN6QSPLOTo=</metadataHash>
+<metadataSize>57431</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NIC-L53_def_la_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NIC-L53_def_la_R2.zip</spath>
+<dpath>update_full_preload_NIC-L53_def_la_R2.zip</dpath>
+<operation>c</operation>
+<sha256>6A4A304CC5E98A4CD82FF2F88DE81B43D7FDCCDEBE9207A1E862BFCDE65204E4</sha256>
+<size>924042995</size>
+</file>
+</files>
+</root>

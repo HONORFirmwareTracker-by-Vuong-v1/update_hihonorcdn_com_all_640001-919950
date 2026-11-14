@@ -1,0 +1,18 @@
+v860283 send: b'GET /TDS/data/bl/files/v860283/f1/full/ckb.zip%0Aha.zip%0Asr-Cyrl.zip%0Ahy.zip HTTP/1.1\r\nHost: update.hihonorcdn.com\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/145.0\r\nAccept-Encoding: gzip, deflate, zstd\r\nAccept: */*\r\nConnection: keep-alive\r\n\r\n'
+reply: 'HTTP/1.1 400 Bad Request\r\n'
+header: Date: Sat, 14 Nov 2026 10:36:00 GMT
+header: Content-Type: application/xml
+header: Set-Cookie: tgw_l7_route=3fa61681be6d23106c68262f670520b7; Expires=Sat, 14-Nov-2026 10:46:00 GMT; Path=/; sameSite=None; Secure
+header: Server: nginx
+header: Content-Disposition: attachment; filename="ckb.zip ha.zip sr-Cyrl.zip hy.zip";
+header: x-cos-request-id: NmFmODM5OTBfZDgyNTU0MWVfMWJmMTJfZDJkM2NmZg==
+header: x-cos-trace-id: OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc1NGE1MWY0MzY2NTg1MzM1OTY3MDliYzY2YTQ0ZThhMGVjZDdhNTA3MWQ0ZjE4NWNhYjYzMTYzMTU0NzkzNDky
+header: Age: 0
+header: Last-Modified: Sat, 14 Nov 2026 10:36:00 GMT
+header: Content-Length: 372
+header: Connection: keep-alive
+header: EO-LOG-UUID: 10091927451950042591
+header: EO-Cache-Status: MISS http://update.hihonorcdn.com/TDS/data/bl/files/v860283/f1/full/ckb.zip
+ha.zip
+sr-Cyrl.zip
+hy.zip

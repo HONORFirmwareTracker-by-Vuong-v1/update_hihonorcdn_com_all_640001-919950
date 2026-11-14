@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>eyqCj7DfoJQ2OMYeW2tiZvJgoE5h0d2GkFOxUMqmfJs=</fileHash>
+<fileSize>157305</fileSize>
+<metadataHash>9y/aDRZMRbXNzUh5jeV9h+4Rz9q5Ib9nYIAJM9cPvz0=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_PGT-AN10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_PGT-AN10_all_cn.zip</spath>
+<dpath>update_full_cust_PGT-AN10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>578C591C692CF05FCD9F6A4D742829B183DDA68DF91F2C51C18F4C2352F502E8</sha256>
+<size>164482</size>
+</file>
+</files>
+</root>

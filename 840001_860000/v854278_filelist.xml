@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>U8rgSAY0tkcEjkzDoNH7IYM//4ZpXvVfOpgj+Ipeam0=</fileHash>
+<fileSize>64060</fileSize>
+<metadataHash>JL38s3D3GeBYqRA8MDoHjjfCICSWcWZr0PEs+cAHTnI=</metadataHash>
+<metadataSize>30310</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_HEY4-N09_demo_normal_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_HEY4-N09_demo_normal_R101.zip</spath>
+<dpath>update_full_preload_HEY4-N09_demo_normal_R101.zip</dpath>
+<operation>c</operation>
+<sha256>E421295C1E3E8039E706315A977114E322E4C5708C469F1253BDEA305E6CB1B6</sha256>
+<size>71238</size>
+</file>
+</files>
+</root>

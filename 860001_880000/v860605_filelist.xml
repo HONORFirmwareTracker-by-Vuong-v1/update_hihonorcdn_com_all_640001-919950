@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<supportPKI>0</supportPKI>
+<packageType>full</packageType>
+<packageSolution>res</packageSolution>
+<files>
+<file>
+<spath>update_resource.zip</spath>
+<dpath>update_resource.zip</dpath>
+<operation>c</operation>
+<sha256>146A1C9259064D07DC586669172676E5E977902BD695DFA3B08F369A08B78AD4</sha256>
+<size>113456402</size>
+<installSize>138911022</installSize>
+</file>
+</files>
+</root>

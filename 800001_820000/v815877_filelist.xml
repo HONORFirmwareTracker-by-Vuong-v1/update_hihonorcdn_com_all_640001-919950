@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>1</ForceCowCompress>
+<compressCowSize>19903702</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>783</payloadOffset>
+<fileHash>huQ6BPGj9ujmYKSUQXzhsIpygD3EHb9R8YDZDH8cgjw=</fileHash>
+<fileSize>6719124</fileSize>
+<metadataHash>9XxI/v04N6lDta1AsIwW6v3paKLqULUDVI/vGfeiMXM=</metadataHash>
+<metadataSize>16444</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_PNM-N49_opr_eea_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_PNM-N49_opr_eea_R102.zip</spath>
+<dpath>update_full_preload_PNM-N49_opr_eea_R102.zip</dpath>
+<operation>c</operation>
+<sha256>8832A8ED2114877923B5844DD6C15F4258F703341E26E0BA289465FDF3444A5F</sha256>
+<size>6726318</size>
+</file>
+</files>
+</root>

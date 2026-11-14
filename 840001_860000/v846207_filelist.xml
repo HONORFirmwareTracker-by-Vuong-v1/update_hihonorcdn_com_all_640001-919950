@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>i5YT/oIFtDP1vJs4TfVEB1TQCV/ubk/bykvkM74Ae6k=</fileHash>
+<fileSize>7494</fileSize>
+<metadataHash>Ify5pI8xM0SjShCj29+5/hGvOV87KdRld5fEc1K+fns=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_YAG-W19_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_YAG-W19_def_la.zip</spath>
+<dpath>update_full_cust_YAG-W19_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>CEB4BBF62F946BABDF38E328B4F5FF2310E31EFEBFEE41482EB87867953DF37E</sha256>
+<size>14644</size>
+</file>
+</files>
+</root>

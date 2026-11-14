@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>S4utpdXIrqsEtIDhhg2TcO1d1fpbeZ2jimEJxrTNSYY=</fileHash>
+<fileSize>599838346</fileSize>
+<metadataHash>LzqtcrmnPZg5M4BBQiTPC+sxDfSmv/rCTnI7Lz8l0i8=</metadataHash>
+<metadataSize>57067</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BKQ-N49_channel_zt_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BKQ-N49_channel_zt_R103.zip</spath>
+<dpath>update_full_preload_BKQ-N49_channel_zt_R103.zip</dpath>
+<operation>c</operation>
+<sha256>922187BE066233C8CE5E1978A1CB42A5F70D069A1C0BA87963DBCAA936591D05</sha256>
+<size>599845554</size>
+</file>
+</files>
+</root>

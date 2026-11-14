@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>uhbcgSLyW+KhB0Azv+Tg4Mpizmil4aCxGcQzWxWgFg8=</fileHash>
+<fileSize>2264731</fileSize>
+<metadataHash>yeV0HBUeZq2nEmov8F4z9S1YHKpYArUOzMQV8U3KejA=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MRK-N43_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MRK-N43_def_la.zip</spath>
+<dpath>update_full_cust_MRK-N43_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>8A67F5DF4619466D785D0F9EC43A35D90CB3A9DB6255B0009EFC3166792BFF13</sha256>
+<size>2271906</size>
+</file>
+</files>
+</root>

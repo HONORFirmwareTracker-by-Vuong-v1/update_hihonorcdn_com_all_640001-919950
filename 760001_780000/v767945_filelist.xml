@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>swZfjWC512otUq/Up/zB/goC45sxXui0dzj4rb+lBWw=</fileHash>
+<fileSize>36182</fileSize>
+<metadataHash>3/pWCQSx2AiHRwYRC1Kj1LsJoO/G2ZRZkzocyQ5XYiA=</metadataHash>
+<metadataSize>15884</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ELI-N09_telcel_mx_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ELI-N09_telcel_mx_R1.zip</spath>
+<dpath>update_full_preload_ELI-N09_telcel_mx_R1.zip</dpath>
+<operation>c</operation>
+<sha256>4C70B9278D50C30BABE884FFBCC2D723718E1F3FCDED4AD8D70142BC1D9CDCF7</sha256>
+<size>43350</size>
+</file>
+</files>
+</root>

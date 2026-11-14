@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>ydapfyXLT64V1ioiPmZ5hlNIZzlxQbG4Jy6lS9cJ9uI=</fileHash>
+<fileSize>316529967</fileSize>
+<metadataHash>dElFL91/ky9GKSHiBoEhjwpMOT6+WmjKlCt5+ITsJZk=</metadataHash>
+<metadataSize>56754</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_MTN-N23_def_la_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_MTN-N23_def_la_R201.zip</spath>
+<dpath>update_full_preload_MTN-N23_def_la_R201.zip</dpath>
+<operation>c</operation>
+<sha256>C48936FFE47FFFBDFD1A3470C8E0F7488CAFFD23EA460D00775D4A54693BE65A</sha256>
+<size>316537173</size>
+</file>
+</files>
+</root>

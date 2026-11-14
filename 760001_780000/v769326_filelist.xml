@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>laObp0BiIQC9c23rK/It9PBylU9W/+GHy3veO5QGp4Q=</fileHash>
+<fileSize>444365750</fileSize>
+<metadataHash>V6NbQ3faOu/kBuKE8GimElfdT+UE33wKkI+rzn1CAds=</metadataHash>
+<metadataSize>32025</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LLY-N31_opr_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LLY-N31_opr_meafnaf_R2.zip</spath>
+<dpath>update_full_preload_LLY-N31_opr_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>C857AEB7BCC9E575C84030A905F8DF30BA845593623109E08F2E1F8C484E9426</sha256>
+<size>444372958</size>
+</file>
+</files>
+</root>

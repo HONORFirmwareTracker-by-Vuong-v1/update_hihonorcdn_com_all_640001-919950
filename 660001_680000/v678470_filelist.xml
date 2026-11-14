@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imagequality</pluginName>
+	<versionCode>100103020</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>073f08672c2861ac890d141d10c7286aebc0c5ce1955895b3e4ec42861de54b0</sha256>
+			<size>10523205</size>
+		</file>
+	</files>
+</root>

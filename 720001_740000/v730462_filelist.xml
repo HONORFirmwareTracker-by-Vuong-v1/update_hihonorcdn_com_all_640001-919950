@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1593712640</cowsize>
+<payloadOffset>750</payloadOffset>
+<fileHash>oVPFA52jB3K3YXsjP7BI2sicMrco3SPWCuhcpBxh4Hs=</fileHash>
+<fileSize>1347672827</fileSize>
+<metadataHash>pk0aMt/O30zQXQti3SCMb66a2w6n3DbxnzX4Sl/PmdQ=</metadataHash>
+<metadataSize>42951</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_TNA-AN00Q_all_cn_R8.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_TNA-AN00Q_all_cn_R8.zip</spath>
+<dpath>update_full_preload_TNA-AN00Q_all_cn_R8.zip</dpath>
+<operation>c</operation>
+<sha256>A42BFDBE1252FD862A598BFE2FD130D8ED9D8F92EE049D86F2B81EC70DDC9318</sha256>
+<size>1347679987</size>
+</file>
+</files>
+</root>

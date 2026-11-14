@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>903792263</compressCowSize>
+<cowsize>1677926400</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>//EUNb7pl33RXmiz/I2YVShyeyZiAjE4B/tlWo42jW0=</fileHash>
+<fileSize>821062123</fileSize>
+<metadataHash>OhJ75L5c+YTn21jFPdbITEE7VisehVu4GHHV/O9UT7g=</metadataHash>
+<metadataSize>44607</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CGL-W10_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CGL-W10_all_cn_R102.zip</spath>
+<dpath>update_full_preload_CGL-W10_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>0AEF82A098DD6DBB50FE6C3E1A0163947E0290A46E62790B4240D3E862F1A548</sha256>
+<size>821069331</size>
+</file>
+</files>
+</root>

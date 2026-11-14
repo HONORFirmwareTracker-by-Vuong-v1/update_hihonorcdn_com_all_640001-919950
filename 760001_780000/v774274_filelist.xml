@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>5ZaaJLaNRVPs0X9nb+yBFAqbcsvWmL2NEux2oMYb9GM=</fileHash>
+<fileSize>529651535</fileSize>
+<metadataHash>y0EJ4BkUGeoDatzaw+LBr6KSht4tkBfysWb6ak61Oh0=</metadataHash>
+<metadataSize>32119</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_JDY-L52_def_meafnaf_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_JDY-L52_def_meafnaf_R3.zip</spath>
+<dpath>update_full_preload_JDY-L52_def_meafnaf_R3.zip</dpath>
+<operation>c</operation>
+<sha256>30276E0271E40DA5EFFED3C3EC4AFC814F5504D5FF71ED6DE34A2A400A36335C</sha256>
+<size>529658747</size>
+</file>
+</files>
+</root>

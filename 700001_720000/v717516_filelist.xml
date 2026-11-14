@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>C2SSJlLEaD65XKdjzGaxjOatSSc5UycMBfjN24Mhspw=</fileHash>
+<fileSize>157269</fileSize>
+<metadataHash>/FKl5VEh8VlsNcBIVVsCOzJlNpxuU7lOhO2kHgDu2+0=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MAA-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MAA-AN00_all_cn.zip</spath>
+<dpath>update_full_cust_MAA-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>B16E457F6C16BF7D4A63E64A8C2557D415B8C4605D0AC085625BF7CCB7EC3E7F</sha256>
+<size>164437</size>
+</file>
+</files>
+</root>

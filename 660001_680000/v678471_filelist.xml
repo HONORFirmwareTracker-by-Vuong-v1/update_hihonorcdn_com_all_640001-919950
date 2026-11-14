@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>similarImageBest</pluginName>
+	<versionCode>100100013</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>4f5c7b830ba94ddc3e4795db6e4d7af611a4a06cf0075c35155fad89a99b3c6d</sha256>
+			<size>19833651</size>
+		</file>
+	</files>
+</root>

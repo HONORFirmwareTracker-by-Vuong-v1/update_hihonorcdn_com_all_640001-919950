@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>s6520MXiGMQGbkpC4nEpxZt0LejmkXIId4JIcXMPG8o=</fileHash>
+<fileSize>1505945338</fileSize>
+<metadataHash>wXHAhZphCSrcU/s5t2JmZKgj1120E6/Dm86zidYi70A=</metadataHash>
+<metadataSize>60951</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ABR-AN80_all_cn_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ABR-AN80_all_cn_R201.zip</spath>
+<dpath>update_full_preload_ABR-AN80_all_cn_R201.zip</dpath>
+<operation>c</operation>
+<sha256>AECF2BCBB5142BAFBAF2CC4E369B67E88449592FF8B23BCCD677AE7710AEE06F</sha256>
+<size>1505952562</size>
+</file>
+</files>
+</root>

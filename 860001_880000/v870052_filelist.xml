@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<supportPKI>0</supportPKI>
+<packageType>full</packageType>
+<packageSolution>res</packageSolution>
+<files>
+<file>
+<spath>light_update.zip</spath>
+<dpath>light_update.zip</dpath>
+<operation>c</operation>
+<sha256>23C3C7CC2F216E9BC8368A58471FDB805437514C6849828763CBD13A0F3FF605</sha256>
+<size>6466</size>
+<installSize>2102373</installSize>
+</file>
+</files>
+</root>

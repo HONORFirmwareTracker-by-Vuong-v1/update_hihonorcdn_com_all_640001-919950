@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>NvFtJmYsW71uZ7KmrnhtZ3mLODG18P9KHZ6t/ljwywo=</fileHash>
+<fileSize>36480</fileSize>
+<metadataHash>S6EFSjKh/movnvWQe3zuEbbF6kh9ZRD9L4RSND6sNeI=</metadataHash>
+<metadataSize>15890</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LBU-L13S_telcel_mx_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LBU-L13S_telcel_mx_R101.zip</spath>
+<dpath>update_full_preload_LBU-L13S_telcel_mx_R101.zip</dpath>
+<operation>c</operation>
+<sha256>94E4E9717E647C9F0FE25EC64681E6481233077884AEF79954939658FBFE20E5</sha256>
+<size>43656</size>
+</file>
+</files>
+</root>

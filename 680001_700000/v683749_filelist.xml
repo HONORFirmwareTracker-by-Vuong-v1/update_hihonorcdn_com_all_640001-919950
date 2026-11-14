@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>3572736000</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>j91jyfu1gx/9ZEYE7mGHHHwf4GzKE3k7qhROc2qyJ5E=</fileHash>
+<fileSize>154925359</fileSize>
+<metadataHash>vLrQriqwGAu+eBnNVjT1xtbwWY5MYyzmU8DO6sBa1R0=</metadataHash>
+<metadataSize>91778</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BRP-N21M_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BRP-N21M_opr_eea.zip</spath>
+<dpath>update_full_cust_BRP-N21M_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>3289061BF7E376E6FBF73BD0F3FA687EE3EB0B0FA5F0D912802EE21D7761DD40</sha256>
+<size>154932558</size>
+</file>
+</files>
+</root>

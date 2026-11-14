@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>717</payloadOffset>
+<fileHash>owGKV6eYUc1CpNF+fQA6FyoJOgO4B1C4vF5c3r/YE5c=</fileHash>
+<fileSize>300753</fileSize>
+<metadataHash>r1K+tzvW1fVuUqo29Ey9hUSqST2TB+yW5CmIhvsQPSg=</metadataHash>
+<metadataSize>1079</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_NTX-AN90_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_NTX-AN90_all_cn.zip</spath>
+<dpath>update_full_cust_NTX-AN90_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>938CD3DF2C2EC3FD25EF6D21D089C29A27439E4555362A00C4C06E8FB8DD7FD4</sha256>
+<size>307870</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>iFWI4k3CeHyOtZd+CzkBPpneV0qzcAMb9LM4n3q56ho=</fileHash>
+<fileSize>555293382</fileSize>
+<metadataHash>zpJxfZdtskRNqRQ/K2rGghHdDuXEvwjOT5PI75jrpbA=</metadataHash>
+<metadataSize>32159</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_HEY3-W19_def_meafnaf_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_HEY3-W19_def_meafnaf_R1.zip</spath>
+<dpath>update_full_preload_HEY3-W19_def_meafnaf_R1.zip</dpath>
+<operation>c</operation>
+<sha256>21AA08CD5C2F9C1799564D889C310E821188EE1CA46FA72325CEB543F9A587DF</sha256>
+<size>555300588</size>
+</file>
+</files>
+</root>

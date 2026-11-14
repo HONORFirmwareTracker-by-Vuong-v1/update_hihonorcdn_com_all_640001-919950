@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>4U+7SLCSGwl+mEmwPHGN2Oy/IzNlXlmQlOtE9IOPxQg=</fileHash>
+<fileSize>1845847630</fileSize>
+<metadataHash>6Ko5K/GTDBuxVs3F8J1854Pu+0yl+Z/tUyHzYwfo4XY=</metadataHash>
+<metadataSize>61329</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_PTP-AN70_all_cn_R205.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_PTP-AN70_all_cn_R205.zip</spath>
+<dpath>update_full_preload_PTP-AN70_all_cn_R205.zip</dpath>
+<operation>c</operation>
+<sha256>6ADA0553C54747D28EDDE2397F1FA9A17269D593B41CD1534F0905471C87D3E9</sha256>
+<size>1845854846</size>
+</file>
+</files>
+</root>

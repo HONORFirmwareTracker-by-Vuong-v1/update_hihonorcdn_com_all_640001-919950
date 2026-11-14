@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>MU6/9d2CUGQwJKrpBUPKk1ekg52pkC7OWAA+9YWI1JA=</fileHash>
+<fileSize>259540518</fileSize>
+<metadataHash>xyj7q2LIc1DYYnDwd4LTW1fgZiQufxrprtjJsdcVbWs=</metadataHash>
+<metadataSize>16706</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ELI-N39_iusacell_mx_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ELI-N39_iusacell_mx_R2.zip</spath>
+<dpath>update_full_preload_ELI-N39_iusacell_mx_R2.zip</dpath>
+<operation>c</operation>
+<sha256>B41D113CACB0CBF507F0406C739D9A01830317DBBE976EF1A4E75EEAA7FE762F</sha256>
+<size>259547722</size>
+</file>
+</files>
+</root>

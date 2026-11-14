@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>1</ForceCowCompress>
+<compressCowSize>2163394382</compressCowSize>
+<cowsize>2259001344</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>yPJDRnN/1ddHUiRwxKhloNCb00ntPTLvCaYlvwaNPh8=</fileHash>
+<fileSize>2057596176</fileSize>
+<metadataHash>PTRuVFk561BVwbMVvx23inIj7x+pFhEPRfh13v3llvM=</metadataHash>
+<metadataSize>61129</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_AAK-AN00_all_cn_R401.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_AAK-AN00_all_cn_R401.zip</spath>
+<dpath>update_full_preload_AAK-AN00_all_cn_R401.zip</dpath>
+<operation>c</operation>
+<sha256>9C9F871752AC78B813A41CE4C717B5EE771B0F7A2E8D545007152133D70A42A5</sha256>
+<size>2057603395</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>QLV2pSn4dC/wnk8x/5eRkcLavLW6NMot1oigzCVZkoY=</fileHash>
+<fileSize>2224318</fileSize>
+<metadataHash>QVfQsapBHth025XgWBn9e31Dx7cp9Npncp6/YGdH49E=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_CRT-L32_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_CRT-L32_def_meafnaf.zip</spath>
+<dpath>update_full_cust_CRT-L32_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>19129ACA29C60EDCDDCA0B4240F031D6666BBD62CBE44ABD37959F3142AB704E</sha256>
+<size>2231488</size>
+</file>
+</files>
+</root>

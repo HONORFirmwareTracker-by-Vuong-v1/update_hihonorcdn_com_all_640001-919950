@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>Y96wlm8U+laKpA98W4M3nh1qSAhlSWGJq1CyxKCeSk0=</fileHash>
+<fileSize>1334304181</fileSize>
+<metadataHash>U5YqpWOlPoZDyoTBuaA2SUm/OqOw3il8CJwxdZDE8mk=</metadataHash>
+<metadataSize>60765</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NIC-AN10S_all_cn_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NIC-AN10S_all_cn_R101.zip</spath>
+<dpath>update_full_preload_NIC-AN10S_all_cn_R101.zip</dpath>
+<operation>c</operation>
+<sha256>F4B2E9CB70F549C8E1AAB8F08BB75212AF7B2F78C0E8DFF49C5040C312CC42F1</sha256>
+<size>1334311404</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.android.launcher</packageName>
+	<pluginName>launcherpreloadplugin</pluginName>
+	<versionCode>170001003</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>2e4effa73bcc4625ecbee5065234dbadfadac8dd8e743ee7736ec7c28570b433</sha256>
+			<size>911334</size>
+		</file>
+	</files>
+</root>

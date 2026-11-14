@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2705334272</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>FbFdLCgazbAbzGEBvasIzXbrqYXAsvSxnfRTNZ6xpXg=</fileHash>
+<fileSize>1809146425</fileSize>
+<metadataHash>nWBjVZIdxJ1ZJSSo80CFXj96XvNSXWmGJbTO/erG/S0=</metadataHash>
+<metadataSize>72482</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ELI-AN00_all_cn_R104.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ELI-AN00_all_cn_R104.zip</spath>
+<dpath>update_full_preload_ELI-AN00_all_cn_R104.zip</dpath>
+<operation>c</operation>
+<sha256>43AE82BEF815534E90914E3610713446158FC032B0E7F673AD2668005CDDDCD1</sha256>
+<size>1809153642</size>
+</file>
+</files>
+</root>

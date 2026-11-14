@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>uCA3KtBKz8jyh78K2QBj8d9j7wAu7Bj3t5X+gQAIdSY=</fileHash>
+<fileSize>184539824</fileSize>
+<metadataHash>X/iUZugdO4Vb/1psQ+P9jK2Y97j08ysbhhTe4dxNrCw=</metadataHash>
+<metadataSize>15997</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MTN-N21_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MTN-N21_opr_meafnaf.zip</spath>
+<dpath>update_full_cust_MTN-N21_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>91233B44598BE53F5A3FEF9B40A3F4564F542AAC05AD879988A52A4DBB7E22AA</sha256>
+<size>184547020</size>
+</file>
+</files>
+</root>

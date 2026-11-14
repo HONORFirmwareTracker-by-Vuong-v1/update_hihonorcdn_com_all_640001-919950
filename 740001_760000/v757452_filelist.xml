@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>tGMNjUeVKKPEHcaIXvDah6hreRmTVb4g5bpmoZCuCHo=</fileHash>
+<fileSize>704182035</fileSize>
+<metadataHash>f+f+nyyr5YZRZOhPgvhUSILBVDK8YJPKzKfjr+8H6N8=</metadataHash>
+<metadataSize>32328</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_YLE-W09_def_eea_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_YLE-W09_def_eea_R102.zip</spath>
+<dpath>update_full_preload_YLE-W09_def_eea_R102.zip</dpath>
+<operation>c</operation>
+<sha256>DB60A30ABBA2B0986C7CE5CFCD76BC5401AF23B7C6C5C8FE172B01ABEF798A8E</sha256>
+<size>704189473</size>
+</file>
+</files>
+</root>

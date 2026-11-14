@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214750720</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>xFgR3mNvHe0NTEg7CJvlBZjz6Jb58LgvH9Q9aAKef9Y=</fileHash>
+<fileSize>278933955</fileSize>
+<metadataHash>vh4EU2+I6qAxOkVCV0957pfbusaVpaOu2sVGervK+Qw=</metadataHash>
+<metadataSize>31455</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_LGE-N49_def_spcseas_R2.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_LGE-N49_def_spcseas_R2.zip</spath>
+<dpath>update_full_preload_LGE-N49_def_spcseas_R2.zip</dpath>
+<operation>c</operation>
+<sha256>05C185389E3F52417EDF5BB007AEE0A61FA114BDF29E802560BD9B66C712DE4C</sha256>
+<size>278941106</size>
+</file>
+</files>
+</root>

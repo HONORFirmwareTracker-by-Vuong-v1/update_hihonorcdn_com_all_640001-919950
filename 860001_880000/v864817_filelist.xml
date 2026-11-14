@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1593712640</cowsize>
+<payloadOffset>751</payloadOffset>
+<fileHash>TwtdR2Ft5upJOm4dqjRwVa2hROQ8Epx+QjlDcMhOFT0=</fileHash>
+<fileSize>1371702603</fileSize>
+<metadataHash>rEnUPTGseFV9oRqZhs65+sKPWV3TLdRmw3vOXbkyFx0=</metadataHash>
+<metadataSize>42989</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_SDY-AN00_demo_cn_R5.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_SDY-AN00_demo_cn_R5.zip</spath>
+<dpath>update_full_preload_SDY-AN00_demo_cn_R5.zip</dpath>
+<operation>c</operation>
+<sha256>A02DFF789432E68780B25276A333EAAEF0C46D9BAA4F53D24F5FA162D92B59E1</sha256>
+<size>1371709770</size>
+</file>
+</files>
+</root>

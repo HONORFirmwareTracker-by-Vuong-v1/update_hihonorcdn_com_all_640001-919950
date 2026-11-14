@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>N5ylPjkn8iWPW+6qNala5O2SCou8QYoxQox8z12jElY=</fileHash>
+<fileSize>345381551</fileSize>
+<metadataHash>WmXLI3t32uByKNT4lJReHyFu8hDR0yiW5hsi5NHpBkE=</metadataHash>
+<metadataSize>16296</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_CRT-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_CRT-TN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_CRT-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>C098AE14CBB9E063D430F20F8A9128469A4AB2ADEAE271EEFDDE6F0F42F67573</sha256>
+<size>345388753</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>15472260</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>8YnXhkDfISRiP/2IEus+K4jnB/aRk13ITA7At9SUhA8=</fileHash>
+<fileSize>2234087</fileSize>
+<metadataHash>tUbAYjMG1Ahic06AKI6XTPSar7oDSF9DiDQNJEcrZtk=</metadataHash>
+<metadataSize>1118</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MBH-N49_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MBH-N49_def_spcseas.zip</spath>
+<dpath>update_full_cust_MBH-N49_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>0DD8741DB186A23FA91D72E4355F340FC8AFE1DBE34E1386F033B75393891FFD</sha256>
+<size>2241266</size>
+</file>
+</files>
+</root>

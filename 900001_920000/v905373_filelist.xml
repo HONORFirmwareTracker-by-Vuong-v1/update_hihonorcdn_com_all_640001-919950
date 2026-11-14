@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>Ui/c/wnPbjHWkt5ydNZUl8pCGWdevF3Hs0jKsRITw+s=</fileHash>
+<fileSize>154465</fileSize>
+<metadataHash>DVKe5/xNjCC6REITKW5li7E1JacYVj0WC8VKBR22sgM=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NLA-AL10S_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NLA-AL10S_all_cn.zip</spath>
+<dpath>update_full_cust_NLA-AL10S_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>05B15B0B739E9665D5A29C6578328F7F63E8D4ACCAA7CCAC8B75E66545EC175D</sha256>
+<size>161635</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>qY6D9f0uPE+GljfYHzrH8mu00/ufDkgOr2ya0AHmMLQ=</fileHash>
+<fileSize>563358690</fileSize>
+<metadataHash>V9c0EYbFjE1L6rCx2nnTb+KsA6uwmU10R4ZWrWo7FL0=</metadataHash>
+<metadataSize>31531</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ABR-L33_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ABR-L33_iusacell_mx.zip</spath>
+<dpath>update_full_cust_ABR-L33_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>8D208FCC5634C27870F9B284B565149AB905AA9539795C957FF1BB6914611589</sha256>
+<size>563365884</size>
+</file>
+</files>
+</root>

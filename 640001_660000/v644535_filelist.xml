@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>743</payloadOffset>
+<fileHash>MrrgdXbyCCRhEOR7nrq/qeeBE0aBdszEdzaTyBe7TzU=</fileHash>
+<fileSize>107687701</fileSize>
+<metadataHash>RYYCwMB5C4vyZFUaFn5gMgsQxSSrpJCSAtl/zGjIEcY=</metadataHash>
+<metadataSize>15883</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_RKY-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_RKY-TN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_RKY-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>3864F8037DAD509659531E04192425BF68C1B973790C248082DC8D6633AB8348</sha256>
+<size>107694845</size>
+</file>
+</files>
+</root>

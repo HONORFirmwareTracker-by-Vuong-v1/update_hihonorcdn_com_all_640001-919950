@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>MNsU6EOhZY4ugD2OKKcsW6GXGH6R3OQJzIqEPuDU1Hg=</fileHash>
+<fileSize>1460178161</fileSize>
+<metadataHash>+aiaQ6xhRgMVxu+/GKu/fH3xNgwCHPU/s6Q5IHdXOic=</metadataHash>
+<metadataSize>43049</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_FRI-AN00_all_cn_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_FRI-AN00_all_cn_R3.zip</spath>
+<dpath>update_full_preload_FRI-AN00_all_cn_R3.zip</dpath>
+<operation>c</operation>
+<sha256>1DCEEA362D7429E6EDA7E8A3B970C13BB988C8DF8F78E757F7153970F66076E9</sha256>
+<size>1460185382</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>h/CQQ+vQNFbjCoxTR1q/ziFW/x7akUJhDvJCeWMBAVo=</fileHash>
+<fileSize>740485068</fileSize>
+<metadataHash>pQkfk15/H+aQ4GbZTjZODSxKUIxJWOCDWgq+zAXz+Pc=</metadataHash>
+<metadataSize>32371</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ELI-N39_def_eea_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ELI-N39_def_eea_R3.zip</spath>
+<dpath>update_full_preload_ELI-N39_def_eea_R3.zip</dpath>
+<operation>c</operation>
+<sha256>E72012F11F736AB255ED7B4894ADB396902659C0BA51EDC6813484CA0EB94DF5</sha256>
+<size>740492272</size>
+</file>
+</files>
+</root>

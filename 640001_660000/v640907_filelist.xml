@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>200780371</compressCowSize>
+<cowsize>1298964480</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>WxK39TRFXaqM/8lKHr/ahJP7UaCG4vwH2QL0bSrlU48=</fileHash>
+<fileSize>153847418</fileSize>
+<metadataHash>CRRgQ25DuptR7TqDQY6dWufB6GiqinqpDIq+JEVvpAE=</metadataHash>
+<metadataSize>33481</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MBH-N49_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MBH-N49_opr_eea.zip</spath>
+<dpath>update_full_cust_MBH-N49_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>448EFA4F7B8C5B3D155DE67611AF67D8BFEAD8BCE00600B7C78AFD22B870BA4F</sha256>
+<size>153854610</size>
+</file>
+</files>
+</root>

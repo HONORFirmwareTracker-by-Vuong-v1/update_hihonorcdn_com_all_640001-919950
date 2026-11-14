@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>optimizedimagesegment</pluginName>
+	<versionCode>110110002</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>f242d02796465d9fc8bfe67a14fee79f2581a89d6ab7c6359d0c71435673f13b</sha256>
+			<size>167962815</size>
+		</file>
+	</files>
+</root>

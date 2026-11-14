@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>742</payloadOffset>
+<fileHash>sgzijEcVlzp3PhmeGai4v36wyqRMv+1ymB/1CrUWbng=</fileHash>
+<fileSize>230894000</fileSize>
+<metadataHash>vwQxQntS1rpJga6EtpjwjK7HoxLU/+GV+CpMixskMsA=</metadataHash>
+<metadataSize>16030</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_GIA-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_GIA-TN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_GIA-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>94C4CB441306DB777F9E64CA137E48E576D551E1F723F54BD5997D966AC9A035</sha256>
+<size>230901147</size>
+</file>
+</files>
+</root>

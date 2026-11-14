@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>p0zkl572vU1QlCsHJCjCgH3xqom7iTks+FQETNG1eX4=</fileHash>
+<fileSize>2244857</fileSize>
+<metadataHash>xG8WC5nPmSbWHQjiMZNQYApuWkFf8gqXu/Gd65QlpDM=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ABR-N33_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ABR-N33_def_la.zip</spath>
+<dpath>update_full_cust_ABR-N33_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>B4BD1302BD5B60B3289C105DC7A722E30FD24AF9A95F195DC43C27C70D9D3649</sha256>
+<size>2252029</size>
+</file>
+</files>
+</root>

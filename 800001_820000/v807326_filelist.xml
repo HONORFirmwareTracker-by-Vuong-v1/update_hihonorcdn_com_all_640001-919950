@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>G5nDyT/nfQgWotsT/YaB+hlJFtJd45uVAkt9/CHSrfE=</fileHash>
+<fileSize>36182</fileSize>
+<metadataHash>zPAnqlKDNlqRolsnRs5B0wWanMW6n+Ox99btE2pqmpE=</metadataHash>
+<metadataSize>15884</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NDL-L03_telcel_mx_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NDL-L03_telcel_mx_R1.zip</spath>
+<dpath>update_full_preload_NDL-L03_telcel_mx_R1.zip</dpath>
+<operation>c</operation>
+<sha256>5896019C68AFA8F6632B1009E357DE8E8DA8BB4C5908C5F1AA83EA14B43D9434</sha256>
+<size>43349</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1677926400</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>qgjkoYETbnp53U05cgfQKUtYUfAN+hzMvdfT3n9Y+eQ=</fileHash>
+<fileSize>802148885</fileSize>
+<metadataHash>8tdcJ1VYCYzWVn5c+WoVQmOm/1mal5wdUICS7LnwqXY=</metadataHash>
+<metadataSize>44569</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CGA-W00_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CGA-W00_all_cn_R102.zip</spath>
+<dpath>update_full_preload_CGA-W00_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>5CDA05E49728865F1DA2E9A10F15464379C00FA7723B5CDB6BF9B73E1C97B212</sha256>
+<size>802156089</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>CRFNONsPx+BeWb1Y3yJq7R+VZvMc0nwZRqrOJnvSd7k=</fileHash>
+<fileSize>2266894</fileSize>
+<metadataHash>Z3r8pBFzIio4I84RPsl5cN5TnK7CrXPVOiXelqgqI8k=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_JDY-L52_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_JDY-L52_def_spcseas.zip</spath>
+<dpath>update_full_cust_JDY-L52_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>BFE95C552E672314FD1818A2A9759AF642AA30E2301280D4F601C90563975263</sha256>
+<size>2274070</size>
+</file>
+</files>
+</root>

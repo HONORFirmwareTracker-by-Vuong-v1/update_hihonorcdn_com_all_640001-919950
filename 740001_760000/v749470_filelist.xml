@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>jkexZdMsDPfQ2qKV0R2Ob+0+d9BBms+kW9tNslhCiH4=</fileHash>
+<fileSize>383605109</fileSize>
+<metadataHash>dG5AzJ0ECVXqOxmohhtuLfUFtYyOL4jR4m+MkSn5AQM=</metadataHash>
+<metadataSize>31954</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_VER-N49P_porsche_eea_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_VER-N49P_porsche_eea_R1.zip</spath>
+<dpath>update_full_preload_VER-N49P_porsche_eea_R1.zip</dpath>
+<operation>c</operation>
+<sha256>C98A0E55EE88FB40783C4B6AAAFACA228D18EC074132659E5D0F3C384069409E</sha256>
+<size>383612319</size>
+</file>
+</files>
+</root>

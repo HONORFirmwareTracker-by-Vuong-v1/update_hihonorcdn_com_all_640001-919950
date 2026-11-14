@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>UKAnZgK7CWE3GsXEIIG9Q4qd4fQaTQaA+t95AclPgmA=</fileHash>
+<fileSize>164882472</fileSize>
+<metadataHash>SOfRL5kt6L+w5MeMqfEGH5AIQn41YEFutjtyS3OMV3Q=</metadataHash>
+<metadataSize>16597</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_MRK-N43_iusacell_mx_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_MRK-N43_iusacell_mx_R102.zip</spath>
+<dpath>update_full_preload_MRK-N43_iusacell_mx_R102.zip</dpath>
+<operation>c</operation>
+<sha256>F143825E967D736233BF484FF440A73BC75210DD3F11651AA19A2BEC1A48261E</sha256>
+<size>164889684</size>
+</file>
+</files>
+</root>

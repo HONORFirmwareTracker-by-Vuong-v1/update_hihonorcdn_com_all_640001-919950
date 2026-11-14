@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>783</payloadOffset>
+<fileHash>fz0Vs0cZoZUZOluWIv3MV9KV3eea3r642MP02S6QFp4=</fileHash>
+<fileSize>7020441</fileSize>
+<metadataHash>auzdorFHTe/nRS94krkwZxIYj7PZFcTvcc2iYUfTloU=</metadataHash>
+<metadataSize>16420</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LNA-N31_opr_eu_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LNA-N31_opr_eu_R102.zip</spath>
+<dpath>update_full_preload_LNA-N31_opr_eu_R102.zip</dpath>
+<operation>c</operation>
+<sha256>DC928BCE107BB5C64F70684E40892D76B7473CB0FFE8559C031D637528B8CE78</sha256>
+<size>7027636</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>rk0hWnNg37fXUUvphwGj71foq+cHBoXKaAfV4OcVONI=</fileHash>
+<fileSize>559452189</fileSize>
+<metadataHash>df1R8qOvPXITp6Vpo5CJpXJNDeMhkI7zZVfCTOv6mpA=</metadataHash>
+<metadataSize>32158</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_JDY-L41_def_eea_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_JDY-L41_def_eea_R3.zip</spath>
+<dpath>update_full_preload_JDY-L41_def_eea_R3.zip</dpath>
+<operation>c</operation>
+<sha256>3334C02399FECBC9F954322BA7ED49278AF0727D505266317C0C4E369C32A7B7</sha256>
+<size>559459399</size>
+</file>
+</files>
+</root>

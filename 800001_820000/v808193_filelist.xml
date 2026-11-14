@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>1814273604</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>rpcbfsT3XTIRFUDZ2GTaLXMK9Pp9DVB9dhNTyk4tiBE=</fileHash>
+<fileSize>1692961433</fileSize>
+<metadataHash>efDurBez0d1uL4tMLlW6qzFWrmH8ANnpMvvranag7oM=</metadataHash>
+<metadataSize>61186</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_DNN-AN00_all_cn_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_DNN-AN00_all_cn_R103.zip</spath>
+<dpath>update_full_preload_DNN-AN00_all_cn_R103.zip</dpath>
+<operation>c</operation>
+<sha256>7AAC8E51B9CA21D1D31A012E3E67ED677954C5F912C6C79BDC64A44E6B46BDAD</sha256>
+<size>1692968659</size>
+</file>
+</files>
+</root>

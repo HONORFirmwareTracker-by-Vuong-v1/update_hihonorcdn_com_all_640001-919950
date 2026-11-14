@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>al4RdGcNVevHhAGq3sJj3yOb4JxcI3L5QpLIra6AGJ8=</fileHash>
+<fileSize>7490</fileSize>
+<metadataHash>nCoQipEco0j7Usw+GfpakMP8pM+IEGq6FbdA99BHzvk=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ROL-W09_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ROL-W09_def_spcseas.zip</spath>
+<dpath>update_full_cust_ROL-W09_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>2E7DA8B8674A20C39FB2E5847C27BCD8BA225A18C9A544F70D633202A5C3DC0C</sha256>
+<size>14639</size>
+</file>
+</files>
+</root>

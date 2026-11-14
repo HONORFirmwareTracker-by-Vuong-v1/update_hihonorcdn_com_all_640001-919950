@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>c99rWMokqOoLRLZbheNPO3gZW2AxkiJXVOypG8Vdfog=</fileHash>
+<fileSize>704191548</fileSize>
+<metadataHash>ICeYPrBUyAyKWzXDg0Xhcdj22LriUKp0YquJum9RlyU=</metadataHash>
+<metadataSize>32326</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_YLE-W09_def_meafnaf_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_YLE-W09_def_meafnaf_R201.zip</spath>
+<dpath>update_full_preload_YLE-W09_def_meafnaf_R201.zip</dpath>
+<operation>c</operation>
+<sha256>C3A7DC82316C7F4B3684F6B5B91DDFAAC9774A2A1E3D4561F64477FD9A3518AD</sha256>
+<size>704198754</size>
+</file>
+</files>
+</root>

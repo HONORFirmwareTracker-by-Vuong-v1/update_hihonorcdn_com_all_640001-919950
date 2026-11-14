@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>AkDgo+nVs0WNjAmaszApxx8rsW48UA3bG8j+Dp/AOwU=</fileHash>
+<fileSize>717391885</fileSize>
+<metadataHash>i/QYHPG+YVljGIJQNKVP+xWS4m0EtAioAmdCkWxykiI=</metadataHash>
+<metadataSize>31706</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ELN2-L23_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ELN2-L23_telcel_mx.zip</spath>
+<dpath>update_full_cust_ELN2-L23_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>18A92F4A54DC9249FB1FABC669B34CBFA7D477972D4DF59E3FDD002A34BFEAC9</sha256>
+<size>717399077</size>
+</file>
+</files>
+</root>

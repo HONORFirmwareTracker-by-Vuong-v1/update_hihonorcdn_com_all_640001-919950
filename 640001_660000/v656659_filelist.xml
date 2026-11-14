@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>tHIb5bvZuIrCOxProlDbbM934eFU1xGptQH93ORUgsI=</fileHash>
+<fileSize>63651</fileSize>
+<metadataHash>kyjJww7GSYb2EqJZIYyonE3Sex2j3rjYCZRbw+sxlb0=</metadataHash>
+<metadataSize>30301</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NLA-L03_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NLA-L03_def_la_R100.zip</spath>
+<dpath>update_full_preload_NLA-L03_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>ECF2C0206A13188428C34CF3DAE7A1DD863667ED6117D14920BCBD55EA199A77</sha256>
+<size>70826</size>
+</file>
+</files>
+</root>

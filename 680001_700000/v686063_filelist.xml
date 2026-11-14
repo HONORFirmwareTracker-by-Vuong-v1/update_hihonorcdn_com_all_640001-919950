@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>775</payloadOffset>
+<fileHash>BiR6kzDN7/FtEWydyk237z3uqWniD5NcxmlmZ1ETjJ8=</fileHash>
+<fileSize>109389</fileSize>
+<metadataHash>zGv82BuoMmPxdCZBgwFPe0UGt5zcgMg3lX1Fcuw7hLU=</metadataHash>
+<metadataSize>54259</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_MTN-N21M_demo_normal_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_MTN-N21M_demo_normal_R1.zip</spath>
+<dpath>update_full_preload_MTN-N21M_demo_normal_R1.zip</dpath>
+<operation>c</operation>
+<sha256>446C89AD49CDEB5DF4C10E91637A9C4F76F9A2462594A15AC847757F5ED9C400</sha256>
+<size>116573</size>
+</file>
+</files>
+</root>

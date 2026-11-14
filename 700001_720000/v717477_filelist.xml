@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>742</payloadOffset>
+<fileHash>jFrFDS4oOBci0M9ZTZpzbozmAedCHPtNIq5xbFNVYkM=</fileHash>
+<fileSize>110439906</fileSize>
+<metadataHash>na5LU6JPAaxHIJFwLeP82ahMCphJfrkj0JsE4YOjUS0=</metadataHash>
+<metadataSize>15884</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_VNE-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_VNE-TN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_VNE-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>452A7A1D822E4FD83E20A8703525900FBE1D2FFB23F5972686827EFC6D216C8F</sha256>
+<size>110447049</size>
+</file>
+</files>
+</root>

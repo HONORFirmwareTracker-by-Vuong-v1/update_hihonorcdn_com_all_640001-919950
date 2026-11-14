@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>qualityinspect</pluginName>
+	<versionCode>100600011</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>2bd6d3768d62227a78fe4238c8c297bc07484a2b4c7f8918f2d5f98a64b297b3</sha256>
+			<size>608176</size>
+		</file>
+	</files>
+</root>

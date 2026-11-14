@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>fkvtrzMxp+24zqcEL9oHSpd/Ydk7z4v1IcDNhT3t0lg=</fileHash>
+<fileSize>740484928</fileSize>
+<metadataHash>zstV+iuUxTG9C0gkBHyNZ1aD/lSy43FzIA3NHyob2gw=</metadataHash>
+<metadataSize>32371</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_JDY-L43_def_la_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_JDY-L43_def_la_R3.zip</spath>
+<dpath>update_full_preload_JDY-L43_def_la_R3.zip</dpath>
+<operation>c</operation>
+<sha256>FD77C635E9576B2BC5661A0400468C96BF43CB7C1844E650E7E9C2C783C0CA69</sha256>
+<size>740492135</size>
+</file>
+</files>
+</root>

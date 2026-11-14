@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>preloadcode</pluginName>
+	<versionCode>90100050</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>0c0c2089fa036a800388205f435e7e2754921aac73b53b406de4bdb29602d7b3</sha256>
+			<size>2758729</size>
+		</file>
+	</files>
+</root>

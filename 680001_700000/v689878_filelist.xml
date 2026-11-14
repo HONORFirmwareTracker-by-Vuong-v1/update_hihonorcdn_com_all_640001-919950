@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>791</payloadOffset>
+<fileHash>DqJ/etjOkwNiiWn/ZS/y4XOYJVbvR7+C+/YVH0hv1UU=</fileHash>
+<fileSize>19492047</fileSize>
+<metadataHash>TpxYq4B95wdm2vqiNzHP5XU7wfd3Rwv4FSm08Msl7tM=</metadataHash>
+<metadataSize>15786</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BRP-N21_channel_id.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BRP-N21_channel_id.zip</spath>
+<dpath>update_full_cust_BRP-N21_channel_id.zip</dpath>
+<operation>c</operation>
+<sha256>0DBD68E7507E8B7E6485336F859A56C3B0552B1243F79DECC9B5ECA6C452941A</sha256>
+<size>19499237</size>
+</file>
+</files>
+</root>

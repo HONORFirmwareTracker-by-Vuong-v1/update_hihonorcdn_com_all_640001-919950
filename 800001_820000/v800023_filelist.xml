@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>3353780224</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>OoJJk4/s3q1d6ZguAqZL3lIeWr8SaOP3fcUO1hat5Ag=</fileHash>
+<fileSize>178995288</fileSize>
+<metadataHash>o2vA3ydqQWQ7GiOPUwxSDc4fscU0TYVNQXHNjc8nSsQ=</metadataHash>
+<metadataSize>86191</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_VKP-N39_opr_eu.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_VKP-N39_opr_eu.zip</spath>
+<dpath>update_full_cust_VKP-N39_opr_eu.zip</dpath>
+<operation>c</operation>
+<sha256>B7FE0E0CD2FC3E0D3C2C99BEA8B99CDF15D44FB559DDF238D94081459E350726</sha256>
+<size>179002480</size>
+</file>
+</files>
+</root>

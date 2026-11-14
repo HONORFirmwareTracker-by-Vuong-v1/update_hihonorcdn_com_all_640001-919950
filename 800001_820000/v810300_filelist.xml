@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>791</payloadOffset>
+<fileHash>dac8n4iD9j+cbyFCnsIFRUnVbhnLgrO3Jd1M5U+Xusk=</fileHash>
+<fileSize>17313148</fileSize>
+<metadataHash>lpFc+jS+ytjOWPiVyU1LFgA6h62ztiUpZPKunXHdiyk=</metadataHash>
+<metadataSize>15785</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_NDL-W00Z_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_NDL-W00Z_all_cn.zip</spath>
+<dpath>update_full_cust_NDL-W00Z_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>3BAC39AE3DC2BA6C3FEC9CB933E132F7EC881E83E86BDE9EED2C3A7E7B1A724C</sha256>
+<size>17320342</size>
+</file>
+</files>
+</root>

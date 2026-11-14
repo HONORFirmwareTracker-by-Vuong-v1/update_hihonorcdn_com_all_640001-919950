@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214750720</cowsize>
+<payloadOffset>734</payloadOffset>
+<fileHash>sk7CH07/XP6n+IPmJI0utCVxh8XvsOprOyyAW7MRrms=</fileHash>
+<fileSize>25535603</fileSize>
+<metadataHash>PTjt71SfCUwXmbsjAaevcPcNXW2jyhN6ZwHq/6VaM1Y=</metadataHash>
+<metadataSize>31139</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_NTH-N29_def_eea_R2.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_NTH-N29_def_eea_R2.zip</spath>
+<dpath>update_full_preload_NTH-N29_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>2308AA629153DE8EAFC78395E999DBAA268DB8EB2768E445223B905A1B0124DB</sha256>
+<size>25542742</size>
+</file>
+</files>
+</root>

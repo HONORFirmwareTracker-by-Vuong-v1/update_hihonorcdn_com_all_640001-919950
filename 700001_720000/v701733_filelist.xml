@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>726310912</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>EpgGIgD5piqY8O3LDl1BuAWoDqcghg8IhAsuFkPrnFE=</fileHash>
+<fileSize>40052</fileSize>
+<metadataHash>M5+wUR1XDA9KhYb16H8T94sAur1JrBwVLAMdT62UPJU=</metadataHash>
+<metadataSize>18002</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_PTP-N49_def_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_PTP-N49_def_eea.zip</spath>
+<dpath>update_full_cust_PTP-N49_def_eea.zip</dpath>
+<operation>c</operation>
+<sha256>E8852F206CC70AAA1E039BBC5E3F44DCB223484984EEA291457100A41C1DE962</sha256>
+<size>47207</size>
+</file>
+</files>
+</root>

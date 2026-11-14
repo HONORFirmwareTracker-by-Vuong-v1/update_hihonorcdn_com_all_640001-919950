@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>773</payloadOffset>
+<fileHash>MVdfr2nGQGkSLXHPCopCy/01QXalu0i+lKacu+/L33U=</fileHash>
+<fileSize>152655</fileSize>
+<metadataHash>vepDqbGRKcUpyaDUhdTHq8va/YNKwuQ9lc0SDRvOY0w=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_RNA-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_RNA-AN00_all_cn.zip</spath>
+<dpath>update_full_cust_RNA-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>D098DC743539794BE49B6475B4E84051A119BC7404A2CBA08CBD01997BD0198B</sha256>
+<size>159822</size>
+</file>
+</files>
+</root>

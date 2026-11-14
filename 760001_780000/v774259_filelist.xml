@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2014781440</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>gVHRdDeLqvqVkS4xHDwIiaazj2ZNkXWMRxRtyWs64r4=</fileHash>
+<fileSize>814038767</fileSize>
+<metadataHash>VHorpNcCfFpYnD30/hz+dI61ZHqMOFmdwNo++OIFrPg=</metadataHash>
+<metadataSize>53380</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LGN-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LGN-N03_claro_la.zip</spath>
+<dpath>update_full_cust_LGN-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>F7B34477B12EF175E6AD38D093A03D41397C6A217C2DC19C362AA20665DD8FEC</sha256>
+<size>814045962</size>
+</file>
+</files>
+</root>

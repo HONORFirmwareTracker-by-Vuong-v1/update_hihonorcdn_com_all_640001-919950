@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>44179456</cowsize>
+<payloadOffset>717</payloadOffset>
+<fileHash>JRlldqkzwqhRKSf0l0JnSXpK5ATlzH9ajM6Y5d/fc2k=</fileHash>
+<fileSize>300985</fileSize>
+<metadataHash>9FkjCNIKRnXyyIm4thwI8Zvz1BwzRBHnHbFZG+elWaQ=</metadataHash>
+<metadataSize>1079</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_BRT-W09_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_BRT-W09_all_cn.zip</spath>
+<dpath>update_full_cust_BRT-W09_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>9D846EB76DF3530CC99EF52038B088F2B113C884223ECA1B8E46D15BB21ED5A6</sha256>
+<size>308100</size>
+</file>
+</files>
+</root>

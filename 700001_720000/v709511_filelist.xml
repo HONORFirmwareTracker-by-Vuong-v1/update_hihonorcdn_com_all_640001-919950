@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>17257472000</cowsize>
+<payloadOffset>828</payloadOffset>
+<fileHash>Fsnwi77Y9Y2iS4w0h6M+fxXnSU+qNsGGXijIh1IdRNk=</fileHash>
+<fileSize>4728587211</fileSize>
+<metadataHash>XUReE+0C95S6jEpmND1eJO++f0gMn/mIai99tQYPnNs=</metadataHash>
+<metadataSize>460242</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_MEY-AN00_demo_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_MEY-AN00_demo_cn.zip</spath>
+<dpath>update_full_cust_MEY-AN00_demo_cn.zip</dpath>
+<operation>c</operation>
+<sha256>ECFEB14117BACDA08311D409E1065CB141BDF33CAAEC05F712F9537BA93C010B</sha256>
+<size>4728594617</size>
+</file>
+</files>
+</root>

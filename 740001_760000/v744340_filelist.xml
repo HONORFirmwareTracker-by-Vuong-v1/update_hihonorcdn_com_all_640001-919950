@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>gUOIodlFqh6OaHAVAKFeN1hJPr7vMIYUPCchR1NLVNs=</fileHash>
+<fileSize>383369094</fileSize>
+<metadataHash>qBX+W3I0V8f5eY2BUhpn9KjCkeTM4I2uhg7vFTzA+NI=</metadataHash>
+<metadataSize>31952</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_FRI-N39_def_la_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_FRI-N39_def_la_R4.zip</spath>
+<dpath>update_full_preload_FRI-N39_def_la_R4.zip</dpath>
+<operation>c</operation>
+<sha256>E9D5D14556A68D810142A3BF74106A9A73D238D8E7F7FDE31F04FF1885FE4605</sha256>
+<size>383376303</size>
+</file>
+</files>
+</root>

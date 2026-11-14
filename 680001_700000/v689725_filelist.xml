@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<supportPKI>0</supportPKI>
+<packageType>full</packageType>
+<packageSolution>res</packageSolution>
+<files>
+<file>
+<spath>ha.zip</spath>
+<dpath>ha.zip</dpath>
+<operation>c</operation>
+<sha256>38145D2F260779EAED78E215B4F6C34839DB4A72CF0E4F9C5A9F88D702524BDC</sha256>
+<size>2964071</size>
+<installSize>9114561</installSize>
+</file>
+</files>
+</root>

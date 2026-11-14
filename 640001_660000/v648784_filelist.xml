@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>facefraud</pluginName>
+	<versionCode>100695013</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>12344fe159478e292ae30379064ee4c1586548c5689abeb6061b94a8c2851a1d</sha256>
+			<size>31751422</size>
+		</file>
+	</files>
+</root>

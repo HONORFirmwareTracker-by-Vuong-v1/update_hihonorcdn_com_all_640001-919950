@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>758</payloadOffset>
+<fileHash>xnCs1qU4ghA+O5ymSdbSJrZk8F77MrrNPg/qPqhrX5k=</fileHash>
+<fileSize>7486</fileSize>
+<metadataHash>NdsmU6U8UFufBoAft177a69iAhTQtuXGgAb2zXSKSjQ=</metadataHash>
+<metadataSize>1060</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_YLE-W09_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_YLE-W09_def_meafnaf.zip</spath>
+<dpath>update_full_cust_YLE-W09_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>743C572B272D0E73D59A689F085C358F845D32A86CB1558D55FB651E7F21AA79</sha256>
+<size>14634</size>
+</file>
+</files>
+</root>

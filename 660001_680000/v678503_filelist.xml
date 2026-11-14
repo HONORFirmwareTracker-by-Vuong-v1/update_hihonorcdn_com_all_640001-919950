@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>facedetect</pluginName>
+	<versionCode>100100017</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>5a03316582d2ddcb64b5185220fbd06c47538405b1b06b2c539cb342698e3b9f</sha256>
+			<size>20359014</size>
+		</file>
+	</files>
+</root>

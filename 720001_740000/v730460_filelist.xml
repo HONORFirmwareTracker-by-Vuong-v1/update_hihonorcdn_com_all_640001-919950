@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1593712640</cowsize>
+<payloadOffset>750</payloadOffset>
+<fileHash>wgqgtfb9meU7yQtL+mD5q+q62YMm6p9WZofsHDbHsJI=</fileHash>
+<fileSize>1309048443</fileSize>
+<metadataHash>zI69AU2qu5ot77SO3r4SIlIj4iZx7+3petpu8yUB3sM=</metadataHash>
+<metadataSize>42909</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_TNA-TN00_cmcc_cn_R4.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_TNA-TN00_cmcc_cn_R4.zip</spath>
+<dpath>update_full_preload_TNA-TN00_cmcc_cn_R4.zip</dpath>
+<operation>c</operation>
+<sha256>7B3D1A8D5CC86C83B3C7B3B2988B4C16FD673414E3964E19D620F0F1F2239912</sha256>
+<size>1309055604</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1484234752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>1tFhNl5XtSpnzEET9kCqvBF6pJ5whA+FNV3HG0KwjqY=</fileHash>
+<fileSize>663585191</fileSize>
+<metadataHash>3IAHOMqN0jQjHb9awHEVt3cVT+KiwxHMuDq0qhAYq0g=</metadataHash>
+<metadataSize>39347</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BKQ-N19_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BKQ-N19_telcel_mx.zip</spath>
+<dpath>update_full_cust_BKQ-N19_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>5F5FD86A81DF5C4776B655989F43061DFAC1F5D532F0E65B0931282ED14F2F19</sha256>
+<size>663592370</size>
+</file>
+</files>
+</root>

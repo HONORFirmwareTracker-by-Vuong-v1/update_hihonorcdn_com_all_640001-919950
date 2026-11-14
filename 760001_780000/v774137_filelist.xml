@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1484234752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>H3xJ3dmvauQ7bW2VvMjrsizZb0r+vGnfE2BPYWJyUm4=</fileHash>
+<fileSize>675465784</fileSize>
+<metadataHash>JAo65VQWY6UBZ4h+ZfQtyDEHU+0OSeGDZthZpu5Ru7c=</metadataHash>
+<metadataSize>39358</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LNA-N03_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LNA-N03_telcel_mx.zip</spath>
+<dpath>update_full_cust_LNA-N03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>8DBA800305BC04BD46BB9F528446D75C4249DEAE6EF3C45C1D7F999551F49949</sha256>
+<size>675472981</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>15m6WEhbjBall1e4hSvx8Shch16q1Gi2ql/7EmpIebU=</fileHash>
+<fileSize>896230941</fileSize>
+<metadataHash>jWQi5gxn4d+VJdEKncLVzBwx1AMrKp1BkFU86Fd+vbY=</metadataHash>
+<metadataSize>57411</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ABR-N31_channel_id_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ABR-N31_channel_id_R3.zip</spath>
+<dpath>update_full_preload_ABR-N31_channel_id_R3.zip</dpath>
+<operation>c</operation>
+<sha256>B4B26110B525D25507F44C7AC5640E7F10D5A20AC673D5D051B478B8CE03CE82</sha256>
+<size>896238150</size>
+</file>
+</files>
+</root>

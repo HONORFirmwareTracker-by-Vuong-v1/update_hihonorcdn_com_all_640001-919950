@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>DzE5PylcyQmd/Uikghd13n/4P2qlpyUKtO1XWRzNjEY=</fileHash>
+<fileSize>904108613</fileSize>
+<metadataHash>VZaidhFKqtLiRxj9u3ObRSg7tjjrI+++VaHHHcNlkNQ=</metadataHash>
+<metadataSize>57406</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NIC-L42_channel_id_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NIC-L42_channel_id_R2.zip</spath>
+<dpath>update_full_preload_NIC-L42_channel_id_R2.zip</dpath>
+<operation>c</operation>
+<sha256>6A4443658C4AE8078BFC5AFB76CC249DA454C7374B038E33F5D1919FAF4F9545</sha256>
+<size>904115824</size>
+</file>
+</files>
+</root>

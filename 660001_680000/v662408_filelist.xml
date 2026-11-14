@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>mBvUatLywW2lUZJSp6uWbBR5z8SWr9kd8HpKHV+GYC0=</fileHash>
+<fileSize>1600172953</fileSize>
+<metadataHash>bBhZG0UKmELcJ6nxwPHed7o+gZdJK9mYNquLS5ZkfRg=</metadataHash>
+<metadataSize>61028</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_DVD-AN80_all_cn_R104.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_DVD-AN80_all_cn_R104.zip</spath>
+<dpath>update_full_preload_DVD-AN80_all_cn_R104.zip</dpath>
+<operation>c</operation>
+<sha256>852696E8CB641A2744F4FFD0909F4A60875CB18B0799CA22796A74589D643C16</sha256>
+<size>1600180177</size>
+</file>
+</files>
+</root>

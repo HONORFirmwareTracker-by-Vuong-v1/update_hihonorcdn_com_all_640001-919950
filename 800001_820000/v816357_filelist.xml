@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>TvPIk7tVwl3gPb54GcCeo8Ha5qVetcGg23NiO2gUOXA=</fileHash>
+<fileSize>906808195</fileSize>
+<metadataHash>dIDd3VNtqgXvNoB+K4PB+9ahxilkcHqVK0TZVN8V4i4=</metadataHash>
+<metadataSize>57423</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LAB-L41_def_eea_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LAB-L41_def_eea_R201.zip</spath>
+<dpath>update_full_preload_LAB-L41_def_eea_R201.zip</dpath>
+<operation>c</operation>
+<sha256>662B117E45D6CC4E6D80F5D1CBE39711FD6C36876C44AA66C46863202E838BFE</sha256>
+<size>906815404</size>
+</file>
+</files>
+</root>

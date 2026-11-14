@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<supportPKI>0</supportPKI>
+<packageType>full</packageType>
+<packageSolution>res</packageSolution>
+<files>
+<file>
+<spath>ckb.zip</spath>
+<dpath>ckb.zip</dpath>
+<operation>c</operation>
+<sha256>435A3D95195DDD2FE1073519C958C6E8EFA7B24DF83195396FE2090B6E25D707</sha256>
+<size>3833294</size>
+<installSize>10190467</installSize>
+</file>
+</files>
+</root>

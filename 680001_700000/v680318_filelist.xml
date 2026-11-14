@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>DnmJXm3CXcMHKLGBOfpJL0Np+EVeKn7dzRxmvcAG8lw=</fileHash>
+<fileSize>573736497</fileSize>
+<metadataHash>DooyjYZZSp+7ulZYATGmIUK6YAx2wsSbhgmbMNhHNj8=</metadataHash>
+<metadataSize>32169</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CGA-W09_def_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CGA-W09_def_meafnaf_R2.zip</spath>
+<dpath>update_full_preload_CGA-W09_def_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>51581BDD50F6B3D9C855216963952510C15E05038E75B6603FB0A01F55F3ABD0</sha256>
+<size>573743702</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>KyX5mHNCiy8b8Zvph6FFEqNSo/s4Waav8AaA5RpginA=</fileHash>
+<fileSize>1558766140</fileSize>
+<metadataHash>G4Hv3Byn5zAp0d1iUjlDRsbiti0LqGXRaO3sd1MX9hU=</metadataHash>
+<metadataSize>58111</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_MAG-AN00_all_cn_R8.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_MAG-AN00_all_cn_R8.zip</spath>
+<dpath>update_full_preload_MAG-AN00_all_cn_R8.zip</dpath>
+<operation>c</operation>
+<sha256>1AEF12CB9344A30D42D0167FEF0D0C2C70C90A41E692A1A912AA6C71DE0D0553</sha256>
+<size>1558773359</size>
+</file>
+</files>
+</root>

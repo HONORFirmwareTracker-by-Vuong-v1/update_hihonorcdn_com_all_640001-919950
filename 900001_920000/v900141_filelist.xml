@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1214750720</cowsize>
+<payloadOffset>742</payloadOffset>
+<fileHash>dp08vQjJaxMaVkcEldK8u/izmcIxGNgGqbRgOWVO9TE=</fileHash>
+<fileSize>435452948</fileSize>
+<metadataHash>RCCy0HyLEJLxfJd/PgFKYLyXI1D0EV5kj1Vw+Yyp0y0=</metadataHash>
+<metadataSize>32046</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_FNE-N29_def_eea_R3.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_FNE-N29_def_eea_R3.zip</spath>
+<dpath>update_full_preload_FNE-N29_def_eea_R3.zip</dpath>
+<operation>c</operation>
+<sha256>764E1582D9CC58B5AD082E5780C58B226719333393EB14A7EDCAF13A8C918D05</sha256>
+<size>435460103</size>
+</file>
+</files>
+</root>

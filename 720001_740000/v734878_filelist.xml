@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imagelabel</pluginName>
+	<versionCode>100602019</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>7ba390ff000eb6f50535b3113c5470e7b413de49b65a049b1c760d99e409e1f8</sha256>
+			<size>17643286</size>
+		</file>
+	</files>
+</root>

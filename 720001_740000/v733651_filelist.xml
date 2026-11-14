@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>3Pzvx0orDyAGeTe+BYo32TSsNOLenqIslzZUOWbSvOg=</fileHash>
+<fileSize>207663022</fileSize>
+<metadataHash>Am3YVzOo7pqyZEYzDdTHavYv6Bt2QxWwjzXt27fgNQA=</metadataHash>
+<metadataSize>31334</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_VER-N49P_porsche_normal_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_VER-N49P_porsche_normal_R2.zip</spath>
+<dpath>update_full_preload_VER-N49P_porsche_normal_R2.zip</dpath>
+<operation>c</operation>
+<sha256>22039986C2A44C401BA935E6DF25894727413F045F7F7ED77D4EA25F6E57C1F3</sha256>
+<size>207670232</size>
+</file>
+</files>
+</root>

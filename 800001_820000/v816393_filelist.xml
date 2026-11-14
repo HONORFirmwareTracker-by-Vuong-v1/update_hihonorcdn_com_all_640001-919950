@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2907447296</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>LiAbc2X7qfFdrucdE/R4NRY1BIVaPDODPJac1CUQ8qE=</fileHash>
+<fileSize>647012131</fileSize>
+<metadataHash>RA8Ju9/1cDYkUS/mZobi5wG9DBkKaO3CgzpAhh3M1r4=</metadataHash>
+<metadataSize>76502</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_VKJ-N09_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_VKJ-N09_telcel_mx.zip</spath>
+<dpath>update_full_cust_VKJ-N09_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>0661E5DE3CF36597B9E0DBEB7DDA9C111093C6546C367D5BDBA47505E76CB78F</sha256>
+<size>647019331</size>
+</file>
+</files>
+</root>

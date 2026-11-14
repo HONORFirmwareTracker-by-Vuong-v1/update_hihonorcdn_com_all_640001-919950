@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>JBz9q8kdJJ2YCKTM+fifRNWWTl2NCBHL4LRiGhrudMk=</fileHash>
+<fileSize>921080655</fileSize>
+<metadataHash>00Se7S2CGQgsaJPfRHM+z/eqaCUOGzGdiMN8v4dM2mc=</metadataHash>
+<metadataSize>57445</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ABR-N31_opr_spcseas_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ABR-N31_opr_spcseas_R4.zip</spath>
+<dpath>update_full_preload_ABR-N31_opr_spcseas_R4.zip</dpath>
+<operation>c</operation>
+<sha256>8AAFC09C7FF592744B8D02C2C300FF1323C96B53A6A756498DCC5C344A54B6C9</sha256>
+<size>921087858</size>
+</file>
+</files>
+</root>

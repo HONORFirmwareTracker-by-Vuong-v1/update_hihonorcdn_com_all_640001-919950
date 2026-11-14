@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>b/63GmFqVyni75+IyloZ7EF+S/piDjw2FVsLpFdvxDk=</fileHash>
+<fileSize>1698925482</fileSize>
+<metadataHash>SVikn1p/FCOLfQLN167vZbe0Zx4rx70TA7jqwp95x/s=</metadataHash>
+<metadataSize>61179</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LAB-AN00_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LAB-AN00_all_cn_R102.zip</spath>
+<dpath>update_full_preload_LAB-AN00_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>E509C8CFB625F131EE3A5BA6565DBEB32849603483166561EAE0C439FB2D260B</sha256>
+<size>1698932699</size>
+</file>
+</files>
+</root>

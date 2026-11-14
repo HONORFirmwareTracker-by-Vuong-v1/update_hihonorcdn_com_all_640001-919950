@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1593712640</cowsize>
+<payloadOffset>742</payloadOffset>
+<fileHash>D995SwqIGoyVV06sbuUtWVBgso02wH9w0u42e1zPrKQ=</fileHash>
+<fileSize>803353234</fileSize>
+<metadataHash>1BhDCOwjR7tTpf27Pz9DqKffqaLAxgPB4hV8+BrPwDE=</metadataHash>
+<metadataSize>42352</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_BRT-W09_all_cn_R3.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_BRT-W09_all_cn_R3.zip</spath>
+<dpath>update_full_preload_BRT-W09_all_cn_R3.zip</dpath>
+<operation>c</operation>
+<sha256>A5B3B95C8A4BF2390A4C607B3FC6DC7C6932EC156AA382628558741D951775E4</sha256>
+<size>803360381</size>
+</file>
+</files>
+</root>

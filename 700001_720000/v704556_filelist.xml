@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>CZWzVw2nOqO4HrD6yKMoR+tKoiwkEOdhjuecbGMQ2Kk=</fileHash>
+<fileSize>1489858245</fileSize>
+<metadataHash>zTsVV+dc3ShKHmKy+LLbFVBEfF2FhRTlHzJuF1f+Occ=</metadataHash>
+<metadataSize>60912</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_AMP-AN00_all_cn_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_AMP-AN00_all_cn_R103.zip</spath>
+<dpath>update_full_preload_AMP-AN00_all_cn_R103.zip</dpath>
+<operation>c</operation>
+<sha256>E62C7BA9C34C310F597FFA80255364B3539316B119E04E7788A4030564698740</sha256>
+<size>1489865465</size>
+</file>
+</files>
+</root>

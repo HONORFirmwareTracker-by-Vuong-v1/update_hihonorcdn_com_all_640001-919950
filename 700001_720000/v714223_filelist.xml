@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>4LA0qaq0oyp2uJdsCh1rUNAHrbjrnlUc/9ITrqukD1s=</fileHash>
+<fileSize>726066275</fileSize>
+<metadataHash>Jv9LXTMoHiP9gP8f3qBrrtEZO/vbAEgInL1AdZnVIvQ=</metadataHash>
+<metadataSize>57178</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_DNP-N39_opr_meafnaf_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_DNP-N39_opr_meafnaf_R2.zip</spath>
+<dpath>update_full_preload_DNP-N39_opr_meafnaf_R2.zip</dpath>
+<operation>c</operation>
+<sha256>E0EA4B4617CF0607542978F3148201724D5F4337E9BDCF40668C3F1F9262BAF6</sha256>
+<size>726073479</size>
+</file>
+</files>
+</root>

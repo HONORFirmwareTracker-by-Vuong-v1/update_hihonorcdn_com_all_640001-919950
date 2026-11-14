@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>CHpEf4U2fKvow2M77SbdWPZML9k7mUZmNEGTZjoSTZA=</fileHash>
+<fileSize>294712532</fileSize>
+<metadataHash>BihoK3GZ3WRcyX21stcvlt3e6iyeXkR+QP3j9Ra8aao=</metadataHash>
+<metadataSize>16235</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BRP-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BRP-TN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_BRP-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>94FD6B6A363B87F86B6682AD059B140F953993E8B262264AB89C89F2DED2D25B</sha256>
+<size>294719730</size>
+</file>
+</files>
+</root>

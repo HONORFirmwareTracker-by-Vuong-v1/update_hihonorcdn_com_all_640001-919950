@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1593712640</cowsize>
+<payloadOffset>751</payloadOffset>
+<fileHash>TtP5lxLBs6DgmzcD9ClEaAw4tev1vDR9kfnh/HM6Bcg=</fileHash>
+<fileSize>1090869179</fileSize>
+<metadataHash>FXYhxqrF0JsTjmimqHWAxP2IuyqXEejcxTtEhxWqaVk=</metadataHash>
+<metadataSize>42649</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_full_preload_RMO-AN00_demo_cn_R4.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_full_preload_RMO-AN00_demo_cn_R4.zip</spath>
+<dpath>update_full_preload_RMO-AN00_demo_cn_R4.zip</dpath>
+<operation>c</operation>
+<sha256>8198B1AD4F97B8AE4D9EA8CD7AED2481A7EA89756CFD7EEABA2C3D5DF78CCE9E</sha256>
+<size>1090876339</size>
+</file>
+</files>
+</root>

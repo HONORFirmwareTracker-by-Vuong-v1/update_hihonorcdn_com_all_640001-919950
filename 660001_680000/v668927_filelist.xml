@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>bRSQJp0VrEcTqol1IxX4CwtR0cGHb0KUrG259n0/siA=</fileHash>
+<fileSize>1868332735</fileSize>
+<metadataHash>5pp37l8KqCVahAhC9fAAzvPqJiHvfFAh1Ax2WvHmpF4=</metadataHash>
+<metadataSize>61360</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_MBH-AN10_all_cn_R301.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_MBH-AN10_all_cn_R301.zip</spath>
+<dpath>update_full_preload_MBH-AN10_all_cn_R301.zip</dpath>
+<operation>c</operation>
+<sha256>C9DA3913E7FACC0C7732615FD006D2665537A24C29F3AC62845AC88ABD145907</sha256>
+<size>1868339952</size>
+</file>
+</files>
+</root>

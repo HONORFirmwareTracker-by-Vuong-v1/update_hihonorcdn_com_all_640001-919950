@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>13139457</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>MGz58KjmQWm2fc2jPRJ3wTCBS+kjrt9EvvO55KGi+jI=</fileHash>
+<fileSize>153816</fileSize>
+<metadataHash>lJzO7+Zttv7GxDxUuQ1XQ5nFZHkvHKKIndPVPwNdw6c=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ROL-W10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ROL-W10_all_cn.zip</spath>
+<dpath>update_full_cust_ROL-W10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>F88B9E4E99196379D5E93721AC5DB11FD5FB39E6D89E410634C623D57A857CB2</sha256>
+<size>160979</size>
+</file>
+</files>
+</root>

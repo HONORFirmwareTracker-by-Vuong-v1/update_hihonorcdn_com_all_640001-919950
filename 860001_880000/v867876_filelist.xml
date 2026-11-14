@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>mRqMOwBDAOvps5UQ2dFmm4yBzGLlUqEXylJhLgMvrHI=</fileHash>
+<fileSize>221599307</fileSize>
+<metadataHash>3SLE7JGG42VU898oCACZKzhDBOWGIbysAV1mMoHjZeA=</metadataHash>
+<metadataSize>55767</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LBU-L43S_def_la_R601.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LBU-L43S_def_la_R601.zip</spath>
+<dpath>update_full_preload_LBU-L43S_def_la_R601.zip</dpath>
+<operation>c</operation>
+<sha256>BDB668B6168EE6EBE2A7EE04B2A89E6D0670168CDB45DF98CA61CD3C8281B2BF</sha256>
+<size>221606522</size>
+</file>
+</files>
+</root>

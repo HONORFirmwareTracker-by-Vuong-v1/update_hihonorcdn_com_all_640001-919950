@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>7H4nv30HN/Rf2i8Qbfg+acLlPPbBsgd18E9pkhQj8eQ=</fileHash>
+<fileSize>36186</fileSize>
+<metadataHash>/xMT1ox87ss3NpLsjW/Mg5eCm1X0NZVhXsNu7aM+y8I=</metadataHash>
+<metadataSize>15884</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NDL-L09_opr_eea_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NDL-L09_opr_eea_R1.zip</spath>
+<dpath>update_full_preload_NDL-L09_opr_eea_R1.zip</dpath>
+<operation>c</operation>
+<sha256>C2459F68ED4E1CC9370EE024D920010FA2187A01D5558B83A13B1CE493C8335D</sha256>
+<size>43359</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>kkpFjfCcG0PILm2zUYjb3TcfbtXgyoAv/Q6YGIktgks=</fileHash>
+<fileSize>1381970194</fileSize>
+<metadataHash>byPj9Awv1eYlAd5QGaedER3/wrPqjgqtRjUIO/ay7pY=</metadataHash>
+<metadataSize>57980</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_LNA-N32_def_meafnaf_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_LNA-N32_def_meafnaf_R201.zip</spath>
+<dpath>update_full_preload_LNA-N32_def_meafnaf_R201.zip</dpath>
+<operation>c</operation>
+<sha256>6E9E2A3953CBF484F6A16AD82DADE7823CCF4C4F86459950BDAC7D820DA8926D</sha256>
+<size>1381977411</size>
+</file>
+</files>
+</root>

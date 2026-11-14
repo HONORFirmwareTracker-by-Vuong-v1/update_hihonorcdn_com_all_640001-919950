@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>798</payloadOffset>
+<fileHash>RkhANQ1tjIo/dS/X35YMhL0W2xqOXUGMDZLYgWvK9V0=</fileHash>
+<fileSize>122527205</fileSize>
+<metadataHash>04jNFznurzLJiDtdL7odQ7efy8f9S6PZ7dg2koP5FVI=</metadataHash>
+<metadataSize>15891</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LSA-AN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LSA-AN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_LSA-AN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>B5477B2B94A0A1F59A02F216A21093788D3ECA3DBA8607A45EF8BA3C884ACCA6</sha256>
+<size>122534399</size>
+</file>
+</files>
+</root>

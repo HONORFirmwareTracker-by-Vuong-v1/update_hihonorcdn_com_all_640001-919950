@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1484234752</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>gM/szBGzz/1F4puUH4i2PdzuvdzlZTgzmmcDbojLSDk=</fileHash>
+<fileSize>663942656</fileSize>
+<metadataHash>UPnsuyCiZjwoWOVNxi+iXH+ur8llEn0VeJqzs4efK9g=</metadataHash>
+<metadataSize>39338</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ABR-N03_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ABR-N03_telcel_mx.zip</spath>
+<dpath>update_full_cust_ABR-N03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>02ED9223F8CC90EB306009078885053F4EEF622B1E7BEDC1AC2439B60BBD4274</sha256>
+<size>663949850</size>
+</file>
+</files>
+</root>

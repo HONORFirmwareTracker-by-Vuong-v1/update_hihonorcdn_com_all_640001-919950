@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>/23u2fEs8eYigC07uBO3BEkr6EHZbw8zjWPIBKmrfGI=</fileHash>
+<fileSize>154189</fileSize>
+<metadataHash>6IDp0QzFTpk97RWcXrMxGvo9JByWF4EgvEj9NCIzrQE=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BRP-AN80_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BRP-AN80_all_cn.zip</spath>
+<dpath>update_full_cust_BRP-AN80_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>448198A870791BB4B898CC34A8CF8CF632707394DC3702A23560791D84C41293</sha256>
+<size>161362</size>
+</file>
+</files>
+</root>

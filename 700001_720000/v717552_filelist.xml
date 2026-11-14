@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>616833024</cowsize>
+<payloadOffset>742</payloadOffset>
+<fileHash>h7gf7F9deix1dCksNmTkU/nMwJAL1NfiuQ9gkwSAs/w=</fileHash>
+<fileSize>221284603</fileSize>
+<metadataHash>/fzmwwkjOrRYQjLppywxK6kO76ipi0Jz0Gr65lr/Yyo=</metadataHash>
+<metadataSize>16021</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_full_cust_NTX-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_full_cust_NTX-TN00_cmcc_cn.zip</spath>
+<dpath>update_full_cust_NTX-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>F5CE342C10590B2B6BF842C44257F4C042509B1890F9AA8862F2BBF20316888F</sha256>
+<size>221291746</size>
+</file>
+</files>
+</root>

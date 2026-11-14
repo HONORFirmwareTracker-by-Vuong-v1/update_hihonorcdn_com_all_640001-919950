@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>docscan</pluginName>
+	<versionCode>100100012</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>5a59fb2571c798032445bc78c11bc4c1b93788eee8fa9b8990d3410bbcca08e4</sha256>
+			<size>6438499</size>
+		</file>
+	</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>p4CXKmxQLhj8WLwRvD7+tZ6kLOHE4FYlkduq3ltGPrc=</fileHash>
+<fileSize>197901841</fileSize>
+<metadataHash>R+qYwDyCKko3YFU0t1TpdktkR53BpUzHQ8SjspMgXCc=</metadataHash>
+<metadataSize>16011</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_LAB-L52_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_LAB-L52_opr_meafnaf.zip</spath>
+<dpath>update_full_cust_LAB-L52_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>993C3F24E4B0F0D4E7E7A191F4ABB29685E9383963B11B23E77B61F555591EE8</sha256>
+<size>197909035</size>
+</file>
+</files>
+</root>

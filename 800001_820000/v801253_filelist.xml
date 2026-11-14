@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.filemanager</packageName>
+	<pluginName>IcloudPlugin</pluginName>
+	<versionCode>100000323</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>ff9a54724325be905304d873b6d802e9d0366fdd6e5a8c186a912305e20e40c3</sha256>
+			<size>83258100</size>
+		</file>
+	</files>
+</root>

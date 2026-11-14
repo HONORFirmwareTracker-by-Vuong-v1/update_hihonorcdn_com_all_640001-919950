@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>4751728640</cowsize>
+<payloadOffset>808</payloadOffset>
+<fileHash>/zwN11j4cD/fByjYa2tPkZQBEWsCGZdqFLPqOJMqdZo=</fileHash>
+<fileSize>3049531643</fileSize>
+<metadataHash>1BX8HUtW50dnEEllW6zOC+qjhB/4T4teVthNsXAkJQo=</metadataHash>
+<metadataSize>127401</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_NLA-AN00X_all_cn_R901.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_NLA-AN00X_all_cn_R901.zip</spath>
+<dpath>update_full_preload_NLA-AN00X_all_cn_R901.zip</dpath>
+<operation>c</operation>
+<sha256>FAE032D8920288A3BBB2B197340510B558F2FCE72E7A90B80C9D78A766DABA3D</sha256>
+<size>3049538868</size>
+</file>
+</files>
+</root>

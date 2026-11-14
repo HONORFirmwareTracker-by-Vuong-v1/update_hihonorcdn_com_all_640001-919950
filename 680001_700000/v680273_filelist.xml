@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>Nj0jkpIy/08957ix89xSgfvoOi7EvLNy4RGFd+LuMa8=</fileHash>
+<fileSize>541545380</fileSize>
+<metadataHash>hDiMqUDw9+83Ih4KF/YCVTHEzaqU5kob6iMgkuSonss=</metadataHash>
+<metadataSize>32127</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_CGA-W09_def_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_CGA-W09_def_eea_R2.zip</spath>
+<dpath>update_full_preload_CGA-W09_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>CC1A1CD1B2DEAC4B307ADB4D4FC6EB03088694A15B6DB55F6387FF57280659DF</sha256>
+<size>541552585</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>2hsAbwYhnHxsEDUkzAW0BdrTp8Oysc3rXSJCUAcRfus=</fileHash>
+<fileSize>2244577</fileSize>
+<metadataHash>/mAt2WAD4QEEa5CT0dppkR4f3GtupDoCFuIP4CK2dPc=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_FRI-N39_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_FRI-N39_def_meafnaf.zip</spath>
+<dpath>update_full_cust_FRI-N39_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>F5F10F3F3DFC523473E18982683A6AC9AF5105AE32BFCC98F3EC3122DCDE3490</sha256>
+<size>2251748</size>
+</file>
+</files>
+</root>

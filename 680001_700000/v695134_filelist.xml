@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>807</payloadOffset>
+<fileHash>fEMG8IDpFUmOmI9IGLvrIkXQzYspwmN3muAtsKKlkLA=</fileHash>
+<fileSize>1881220440</fileSize>
+<metadataHash>Lre65dvT6FLLiG5AXbcCLBsGHNcgTkRMLX9wm0IhQvk=</metadataHash>
+<metadataSize>58497</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_MEY-AN00_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_MEY-AN00_all_cn_R102.zip</spath>
+<dpath>update_full_preload_MEY-AN00_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>1BB1A2F16A1A8B3A21FB6C35D70FEF295CF8626CD10FF75F1E0944EB7FB3AC94</sha256>
+<size>1881227659</size>
+</file>
+</files>
+</root>
